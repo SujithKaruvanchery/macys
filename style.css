@@ -1,0 +1,96 @@
+.flex-section {
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.vr {
+    width: 1px;
+}
+
+.heading-h3 {
+    color: black;
+    margin: 20px 0px;
+    text-align: center;
+}
+
+.heading-p {
+    text-align: center;
+    font-size: small;
+    font-weight: 500;
+    margin: 50px 0px;
+}
+
+.card-title {
+    font-size: medium;
+}
+
+.card-text {
+    font-size: small;
+    font-weight: 500;
+}
+
+.price-tag {
+    color: green;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+}
+.imageTag {
+    margin: 0px 40px;
+    width: 200px;
+}
+
+.logo{
+    width: 150px;
+}
+
+.elle-cap{
+    text-align: center;
+    color: black;
+}
+
+.footer-sec-one{
+    display: flex;
+    justify-content: space-around;
+    margin: 60px 0px;
+    gap: 30px;
+}
+
+.footer-sec{
+    background-color:black(190, 190, 190);
+    color: black;
+    
+    margin-top: 20px;
+    padding: 10px 0px;
+}
+
+.final-font{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.d-block{
+    width: 350px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.product-image{
+    height: 200px;
+    object-fit: contain;
+}
+.card-title{
+    height: 40px;
+    overflow: hidden;
+}
+.product-des{
+    height: 40px;
+    overflow: hidden;
+}
+.footer-image{
+    margin-bottom: 20px;
+}
+.nav-link{
+    color: black;
+}
